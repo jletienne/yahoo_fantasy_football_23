@@ -1,0 +1,186 @@
+team_name,week,player_name,player_position,player_team,lineup_position,fantasy_points,player_key
+St. Louis Football Team,3,Justin Herbert,QB,LAC,QB,13.58,414.p.32676
+St. Louis Football Team,3,Jared Goff,QB,Det,QB,14.88,414.p.29235
+St. Louis Football Team,3,CeeDee Lamb,WR,Dal,WR,22.7,414.p.32687
+St. Louis Football Team,3,DJ Moore,WR,Car,WR,2.5,414.p.30994
+St. Louis Football Team,3,Saquon Barkley,RB,NYG,RB,22.6,414.p.30972
+St. Louis Football Team,3,J.K. Dobbins,RB,Bal,RB,6.0,414.p.32725
+St. Louis Football Team,3,Dallas Goedert,TE,Phi,TE,11.6,414.p.31019
+St. Louis Football Team,3,Chris Olave,WR,NO,W/R/T,23.7,414.p.33966
+St. Louis Football Team,3,Rashaad Penny,RB,Sea,W/R/T,7.9,414.p.30997
+St. Louis Football Team,3,Allen Lazard,WR,GB,BN,14.5,414.p.31268
+St. Louis Football Team,3,Robbie Anderson,WR,Car,BN,2.4,414.p.29785
+St. Louis Football Team,3,Dameon Pierce,RB,Hou,BN,18.1,414.p.34063
+St. Louis Football Team,3,Baker Mayfield,QB,Car,BN,10.7,414.p.30971
+St. Louis Football Team,3,Carson Wentz,QB,Was,BN,8.64,414.p.29236
+St. Louis Football Team,3,Dak Prescott,QB,Dal,BN,0.0,414.p.29369
+St. Louis Football Team,3,Jake Elliott,K,Phi,K,6.0,414.p.30266
+St. Louis Football Team,3,Philadelphia,DEF,Phi,DEF,18.0,414.p.100021
+St. Louis Football Team,3,San Francisco,DEF,SF,BN,8.0,414.p.100025
+St. Louis Football Team,3,Jameson Williams,WR,Det,IR,0.0,414.p.33967
+St. Louis Football Team,3,Brian Robinson Jr.,RB,Was,IR,0.0,414.p.34054
+Running Up That Hill,3,Matthew Stafford,QB,LAR,QB,10.16,414.p.9265
+Running Up That Hill,3,Justin Fields,QB,Chi,QB,6.94,414.p.33399
+Running Up That Hill,3,Davante Adams,WR,LV,WR,14.2,414.p.27581
+Running Up That Hill,3,Tyreek Hill,WR,Mia,WR,5.3,414.p.29399
+Running Up That Hill,3,Michael Carter,RB,NYJ,RB,5.6,414.p.33495
+Running Up That Hill,3,Alvin Kamara,RB,NO,RB,7.3,414.p.30180
+Running Up That Hill,3,T.J. Hockenson,TE,Det,TE,10.8,414.p.31840
+Running Up That Hill,3,Michael Thomas,WR,NO,W/R/T,9.9,414.p.29281
+Running Up That Hill,3,Adam Thielen,WR,Min,W/R/T,18.1,414.p.27277
+Running Up That Hill,3,Terry McLaurin,WR,Was,BN,16.2,414.p.31908
+Running Up That Hill,3,Chase Edmonds,RB,Mia,BN,15.7,414.p.31104
+Running Up That Hill,3,Mitch Trubisky,QB,Pit,BN,14.98,414.p.30115
+Running Up That Hill,3,Cole Kmet,TE,Chi,BN,6.0,414.p.32713
+Running Up That Hill,3,DJ Chark Jr.,WR,Det,BN,7.6,414.p.31031
+Running Up That Hill,3,Rex Burkhead,RB,Hou,BN,7.0,414.p.26813
+Running Up That Hill,3,Garrett Wilson,WR,NYJ,BN,12.0,414.p.33965
+Running Up That Hill,3,Evan McPherson,K,Cin,K,10.0,414.p.33537
+Running Up That Hill,3,New Orleans,DEF,NO,DEF,4.0,414.p.100018
+AndysTeamThatDoesNotInspireAwe,3,Tom Brady,QB,TB,QB,14.74,414.p.5228
+AndysTeamThatDoesNotInspireAwe,3,Derek Carr,QB,LV,QB,20.82,414.p.27564
+AndysTeamThatDoesNotInspireAwe,3,Stefon Diggs,WR,Buf,WR,14.4,414.p.28534
+AndysTeamThatDoesNotInspireAwe,3,Amon-Ra St. Brown,WR,Det,WR,13.3,414.p.33500
+AndysTeamThatDoesNotInspireAwe,3,Jonathan Taylor,RB,Ind,RB,12.1,414.p.32711
+AndysTeamThatDoesNotInspireAwe,3,Kareem Hunt,RB,Cle,RB,9.1,414.p.30199
+AndysTeamThatDoesNotInspireAwe,3,Tyler Higbee,TE,LAR,TE,10.1,414.p.29344
+AndysTeamThatDoesNotInspireAwe,3,Diontae Johnson,WR,Pit,W/R/T,16.4,414.p.31898
+AndysTeamThatDoesNotInspireAwe,3,Drake London,WR,Atl,W/R/T,14.4,414.p.33963
+AndysTeamThatDoesNotInspireAwe,3,Aaron Rodgers,QB,GB,BN,17.1,414.p.7200
+AndysTeamThatDoesNotInspireAwe,3,Hunter Renfrow,WR,LV,BN,0.0,414.p.31981
+AndysTeamThatDoesNotInspireAwe,3,Taysom Hill,"QB,TE",NO,BN,0.0,414.p.30614
+AndysTeamThatDoesNotInspireAwe,3,Damien Harris,RB,NE,BN,12.6,414.p.31919
+AndysTeamThatDoesNotInspireAwe,3,Rhamondre Stevenson,RB,NE,BN,20.1,414.p.33508
+AndysTeamThatDoesNotInspireAwe,3,Kadarius Toney,WR,NYG,BN,0.0,414.p.33408
+AndysTeamThatDoesNotInspireAwe,3,Nyheim Hines,RB,Ind,BN,8.0,414.p.31074
+AndysTeamThatDoesNotInspireAwe,3,Ryan Succop,K,TB,K,8.0,414.p.9520
+AndysTeamThatDoesNotInspireAwe,3,Green Bay,DEF,GB,DEF,11.0,414.p.100009
+Lil Uzi Hurts,3,Lamar Jackson,QB,Bal,QB,40.42,414.p.31002
+Lil Uzi Hurts,3,Jimmy Garoppolo,QB,SF,QB,9.44,414.p.27590
+Lil Uzi Hurts,3,A.J. Brown,WR,Phi,WR,19.5,414.p.31883
+Lil Uzi Hurts,3,Mike Williams,WR,LAC,WR,8.5,414.p.30120
+Lil Uzi Hurts,3,Christian McCaffrey,RB,Car,RB,13.5,414.p.30121
+Lil Uzi Hurts,3,Joe Mixon,RB,Cin,RB,6.8,414.p.30161
+Lil Uzi Hurts,3,Kyle Pitts,TE,Atl,TE,13.7,414.p.33392
+Lil Uzi Hurts,3,Clyde Edwards-Helaire,RB,KC,W/R/T,14.9,414.p.32702
+Lil Uzi Hurts,3,Marquise Brown,WR,Ari,W/R/T,28.0,414.p.31857
+Lil Uzi Hurts,3,Darrell Henderson Jr.,RB,LAR,BN,1.7,414.p.31902
+Lil Uzi Hurts,3,Jameis Winston,QB,NO,BN,16.62,414.p.28389
+Lil Uzi Hurts,3,DK Metcalf,WR,Sea,BN,17.4,414.p.31896
+Lil Uzi Hurts,3,Robert Woods,WR,Ten,BN,12.5,414.p.26664
+Lil Uzi Hurts,3,Treylon Burks,WR,Ten,BN,3.1,414.p.33973
+Lil Uzi Hurts,3,Pat Freiermuth,TE,Pit,BN,6.1,414.p.33443
+Lil Uzi Hurts,3,Jahan Dotson,WR,Was,BN,3.0,414.p.33971
+Lil Uzi Hurts,3,Daniel Carlson,K,LV,K,10.0,414.p.31137
+Lil Uzi Hurts,3,Cincinnati,DEF,Cin,DEF,16.0,414.p.100004
+Djeango,3,Kyler Murray,QB,Ari,QB,13.36,414.p.31833
+Djeango,3,Russell Wilson,QB,Den,QB,9.06,414.p.25785
+Djeango,3,Justin Jefferson,WR,Min,WR,4.4,414.p.32692
+Djeango,3,Amari Cooper,WR,Cle,WR,23.1,414.p.28392
+Djeango,3,Miles Sanders,RB,Phi,RB,5.4,414.p.31885
+Djeango,3,Jeff Wilson Jr.,RB,SF,RB,11.6,414.p.31394
+Djeango,3,Darren Waller,TE,LV,TE,5.2,414.p.28592
+Djeango,3,DeVonta Smith,WR,Phi,W/R/T,30.9,414.p.33398
+Djeango,3,Tyler Lockett,WR,Sea,W/R/T,16.6,414.p.28457
+Djeango,3,Elijah Moore,WR,NYJ,BN,8.9,414.p.33422
+Djeango,3,Jerry Jeudy,WR,Den,BN,3.7,414.p.32685
+Djeango,3,Cam Akers,RB,LAR,BN,10.1,414.p.32722
+Djeango,3,Breece Hall,RB,NYJ,BN,15.2,414.p.33991
+Djeango,3,Geno Smith,QB,Sea,BN,19.9,414.p.26662
+Djeango,3,Khalil Herbert,RB,Chi,BN,30.9,414.p.33605
+Djeango,3,Jakobi Meyers,WR,NE,BN,0.0,414.p.32231
+Djeango,3,Matt Gay,K,LAR,K,9.0,414.p.31977
+Djeango,3,Los Angeles,DEF,LAR,DEF,6.0,414.p.100014
+Christopher's Perfect Team,3,Kirk Cousins,QB,Min,QB,18.3,414.p.25812
+Christopher's Perfect Team,3,Tua Tagovailoa,QB,Mia,QB,11.44,414.p.32675
+Christopher's Perfect Team,3,Jaylen Waddle,WR,Mia,WR,15.1,414.p.33394
+Christopher's Perfect Team,3,Christian Kirk,WR,Jax,WR,19.2,414.p.31017
+Christopher's Perfect Team,3,Austin Ekeler,RB,LAC,RB,13.3,414.p.30423
+Christopher's Perfect Team,3,Javonte Williams,RB,Den,RB,9.0,414.p.33423
+Christopher's Perfect Team,3,George Kittle,TE,SF,TE,6.8,414.p.30259
+Christopher's Perfect Team,3,David Montgomery,RB,Chi,W/R/T,1.1,414.p.31905
+Christopher's Perfect Team,3,Tony Pollard,RB,Dal,W/R/T,10.5,414.p.31960
+Christopher's Perfect Team,3,Zach Ertz,TE,Ari,BN,10.5,414.p.26658
+Christopher's Perfect Team,3,Mike Evans,WR,TB,BN,0.0,414.p.27535
+Christopher's Perfect Team,3,Allen Robinson II,WR,LAR,BN,4.3,414.p.27589
+Christopher's Perfect Team,3,Mac Jones,QB,NE,BN,18.94,414.p.33403
+Christopher's Perfect Team,3,Odell Beckham Jr.,WR,LAR,BN,0.0,414.p.27540
+Christopher's Perfect Team,3,Skyy Moore,WR,KC,BN,-2.0,414.p.34009
+Christopher's Perfect Team,3,Michael Gallup,WR,Dal,BN,0.0,414.p.31051
+Christopher's Perfect Team,3,Brandon McManus,K,Den,K,5.0,414.p.27120
+Christopher's Perfect Team,3,Baltimore,DEF,Bal,DEF,11.0,414.p.100033
+Toney! Toni! Toné!,3,Joe Burrow,QB,Cin,QB,23.0,414.p.32671
+Toney! Toni! Toné!,3,Trevor Lawrence,QB,Jax,QB,25.18,414.p.33389
+Toney! Toni! Toné!,3,Deebo Samuel,WR,SF,WR,12.9,414.p.31868
+Toney! Toni! Toné!,3,Tee Higgins,WR,Cin,WR,14.3,414.p.32703
+Toney! Toni! Toné!,3,Dalvin Cook,RB,Min,RB,13.6,414.p.30154
+Toney! Toni! Toné!,3,Aaron Jones,RB,GB,RB,5.7,414.p.30295
+Toney! Toni! Toné!,3,Tyler Conklin,TE,NYJ,TE,16.4,414.p.31127
+Toney! Toni! Toné!,3,JuJu Smith-Schuster,WR,KC,W/R/T,13.9,414.p.30175
+Toney! Toni! Toné!,3,Rashod Bateman,WR,Bal,W/R/T,5.9,414.p.33415
+Toney! Toni! Toné!,3,Dawson Knox,TE,Buf,BN,6.5,414.p.31928
+Toney! Toni! Toné!,3,James Conner,RB,Ari,BN,8.7,414.p.30218
+Toney! Toni! Toné!,3,DeAndre Hopkins,WR,Ari,BN,0.0,414.p.26650
+Toney! Toni! Toné!,3,James Cook,RB,Buf,BN,8.0,414.p.34019
+Toney! Toni! Toné!,3,Romeo Doubs,WR,GB,BN,21.3,414.p.34088
+Toney! Toni! Toné!,3,George Pickens,WR,Pit,BN,6.9,414.p.34007
+Toney! Toni! Toné!,3,Raheem Mostert,RB,Mia,BN,1.1,414.p.28654
+Toney! Toni! Toné!,3,Greg Joseph,K,Min,K,4.0,414.p.31538
+Toney! Toni! Toné!,3,Cleveland,DEF,Cle,DEF,10.0,414.p.100005
+2 Gurleys 1 Kupp,3,Josh Allen,QB,Buf,QB,26.7,414.p.30977
+2 Gurleys 1 Kupp,3,Jalen Hurts,QB,Phi,QB,27.6,414.p.32723
+2 Gurleys 1 Kupp,3,Curtis Samuel,WR,Was,WR,13.1,414.p.30153
+2 Gurleys 1 Kupp,3,Brandin Cooks,WR,Hou,WR,4.2,414.p.27548
+2 Gurleys 1 Kupp,3,Antonio Gibson,RB,Was,RB,11.0,414.p.32736
+2 Gurleys 1 Kupp,3,Josh Jacobs,RB,LV,RB,14.7,414.p.31856
+2 Gurleys 1 Kupp,3,Travis Kelce,TE,KC,TE,17.9,414.p.26686
+2 Gurleys 1 Kupp,3,Ezekiel Elliott,RB,Dal,W/R/T,14.5,414.p.29238
+2 Gurleys 1 Kupp,3,Melvin Gordon III,RB,Den,W/R/T,16.5,414.p.28403
+2 Gurleys 1 Kupp,3,Keenan Allen,WR,LAC,BN,0.0,414.p.26699
+2 Gurleys 1 Kupp,3,Julio Jones,WR,TB,BN,0.0,414.p.24793
+2 Gurleys 1 Kupp,3,Devin Singletary,RB,Buf,BN,24.1,414.p.31906
+2 Gurleys 1 Kupp,3,Deshaun Watson,QB,Cle,BN,0.0,414.p.30125
+2 Gurleys 1 Kupp,3,Kenny Pickett,QB,Pit,BN,0.0,414.p.33975
+2 Gurleys 1 Kupp,3,Hunter Henry,TE,NE,BN,1.8,414.p.29269
+2 Gurleys 1 Kupp,3,Tyler Bass,K,Buf,K,5.0,414.p.32858
+2 Gurleys 1 Kupp,3,Tampa Bay,DEF,TB,DEF,6.0,414.p.100027
+2 Gurleys 1 Kupp,3,Denver,DEF,Den,BN,16.0,414.p.100007
+2 Gurleys 1 Kupp,3,Chris Godwin,WR,TB,IR,0.0,414.p.30197
+2 Gurleys 1 Kupp,3,Elijah Mitchell,RB,SF,IR,0.0,414.p.33582
+Hit Me With Your Prescott,3,Patrick Mahomes,QB,KC,QB,18.08,414.p.30123
+Hit Me With Your Prescott,3,Marcus Mariota,QB,Atl,QB,16.56,414.p.28390
+Hit Me With Your Prescott,3,Cooper Kupp,WR,LAR,WR,16.4,414.p.30182
+Hit Me With Your Prescott,3,Courtland Sutton,WR,Den,WR,17.7,414.p.31010
+Hit Me With Your Prescott,3,Leonard Fournette,RB,TB,RB,12.0,414.p.30117
+Hit Me With Your Prescott,3,Najee Harris,RB,Pit,RB,13.1,414.p.33412
+Hit Me With Your Prescott,3,Evan Engram,TE,Jax,TE,3.9,414.p.30136
+Hit Me With Your Prescott,3,Cordarrelle Patterson,RB,Atl,W/R/T,22.3,414.p.26652
+Hit Me With Your Prescott,3,Nick Chubb,RB,Cle,W/R/T,17.3,414.p.31005
+Hit Me With Your Prescott,3,Dalton Schultz,TE,Dal,BN,0.0,414.p.31107
+Hit Me With Your Prescott,3,Chase Claypool,WR,Pit,BN,7.6,414.p.32719
+Hit Me With Your Prescott,3,Gabe Davis,WR,Buf,BN,6.7,414.p.32798
+Hit Me With Your Prescott,3,James Robinson,RB,Jax,BN,20.6,414.p.33138
+Hit Me With Your Prescott,3,Malik Willis,QB,Ten,BN,0.0,414.p.34042
+Hit Me With Your Prescott,3,Rachaad White,RB,TB,BN,0.0,414.p.34047
+Hit Me With Your Prescott,3,Ryan Tannehill,QB,Ten,BN,19.76,414.p.25718
+Hit Me With Your Prescott,3,Justin Tucker,K,Bal,K,9.0,414.p.26534
+Hit Me With Your Prescott,3,Buffalo,DEF,Buf,DEF,4.0,414.p.100002
+Mac & Chase,3,Matt Ryan,QB,Ind,QB,15.28,414.p.8780
+Mac & Chase,3,Daniel Jones,QB,NYG,QB,14.74,414.p.31838
+Mac & Chase,3,Ja'Marr Chase,WR,Cin,WR,12.7,414.p.33393
+Mac & Chase,3,Brandon Aiyuk,WR,SF,WR,12.9,414.p.32695
+Mac & Chase,3,Derrick Henry,RB,Ten,RB,25.3,414.p.29279
+Mac & Chase,3,D'Andre Swift,RB,Det,RB,7.6,414.p.32705
+Mac & Chase,3,Mark Andrews,TE,Bal,TE,28.9,414.p.31056
+Mac & Chase,3,AJ Dillon,RB,GB,W/R/T,5.8,414.p.32732
+Mac & Chase,3,Michael Pittman Jr.,WR,Ind,W/R/T,15.2,414.p.32704
+Mac & Chase,3,Travis Etienne Jr.,RB,Jax,BN,10.5,414.p.33413
+Mac & Chase,3,Darnell Mooney,WR,Chi,BN,4.3,414.p.32843
+Mac & Chase,3,Jamaal Williams,RB,Det,BN,24.7,414.p.30247
+Mac & Chase,3,Davis Mills,QB,Hou,BN,11.8,414.p.33455
+Mac & Chase,3,Gerald Everett,TE,LAC,BN,4.5,414.p.30157
+Mac & Chase,3,Devin Duvernay,WR,Bal,BN,10.3,414.p.32762
+Mac & Chase,3,Dontrell Hilliard,RB,Ten,BN,5.4,414.p.31457
+Mac & Chase,3,Cade York,K,Cle,K,5.0,414.p.34080
+Mac & Chase,3,Pittsburgh,DEF,Pit,DEF,2.0,414.p.100023
+Mac & Chase,3,Zach Wilson,QB,NYJ,IR,0.0,414.p.33390

@@ -1,0 +1,244 @@
+team_name,week,player_name,player_position,player_team,lineup_position,player_status,player_injury,player_key,date,injury_value
+2 Gurleys 1 Kupp,2,Julio Jones,WR,TB,BN,Out,Knee,414.p.24793,2022-09-18,4.0
+2 Gurleys 1 Kupp,3,Julio Jones,WR,TB,BN,Out,Knee,414.p.24793,2022-09-26,4.0
+2 Gurleys 1 Kupp,4,Julio Jones,WR,TB,BN,Questionable,Undisclosed,414.p.24793,2022-10-05,2.0
+2 Gurleys 1 Kupp,5,Julio Jones,WR,TB,BN,Out,Knee,414.p.24793,2022-10-10,4.0
+2 Gurleys 1 Kupp,6,Julio Jones,WR,TB,IR,Out,Knee,414.p.24793,2022-10-18,4.0
+Djeango,4,Russell Wilson,QB,Den,QB,Questionable,Shoulder,414.p.25785,2022-10-05,2.0
+Djeango,5,Russell Wilson,QB,Den,QB,Questionable,Shoulder,414.p.25785,2022-10-12,2.0
+Djeango,6,Russell Wilson,QB,Den,BN,Questionable,Hamstring,414.p.25785,2022-10-19,2.0
+Toney! Toni! Toné!,1,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-09-14,
+Toney! Toni! Toné!,2,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-09-21,
+Toney! Toni! Toné!,3,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-09-28,
+Toney! Toni! Toné!,4,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-10-05,
+Toney! Toni! Toné!,5,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-10-12,
+Toney! Toni! Toné!,6,DeAndre Hopkins,WR,Ari,BN,Suspended,Disciplinary,414.p.26650,2022-10-16,
+Hit Me With Your Prescott,4,Cordarrelle Patterson,RB,Atl,BN,Injured Reserve,Knee,414.p.26652,2022-10-05,5.0
+Hit Me With Your Prescott,5,Cordarrelle Patterson,RB,Atl,IR,Injured Reserve,Knee,414.p.26652,2022-10-12,5.0
+Hit Me With Your Prescott,6,Cordarrelle Patterson,RB,Atl,IR,Injured Reserve,Knee,414.p.26652,2022-10-19,5.0
+2 Gurleys 1 Kupp,1,Keenan Allen,WR,LAC,WR,Questionable,Hamstring,414.p.26699,2022-09-14,2.0
+2 Gurleys 1 Kupp,2,Keenan Allen,WR,LAC,IR,Out,Hamstring,414.p.26699,2022-09-18,4.0
+2 Gurleys 1 Kupp,3,Keenan Allen,WR,LAC,BN,Out,Hamstring,414.p.26699,2022-09-26,4.0
+2 Gurleys 1 Kupp,4,Keenan Allen,WR,LAC,BN,Out,Hamstring,414.p.26699,2022-10-03,4.0
+2 Gurleys 1 Kupp,5,Keenan Allen,WR,LAC,IR,Out,Hamstring,414.p.26699,2022-10-10,4.0
+2 Gurleys 1 Kupp,6,Keenan Allen,WR,LAC,BN,Out,Hamstring,414.p.26699,2022-10-18,4.0
+Christopher's Perfect Team,2,Mike Evans,WR,TB,WR,Suspended,Disciplinary,414.p.27535,2022-09-21,
+Christopher's Perfect Team,3,Mike Evans,WR,TB,BN,Suspended,Disciplinary,414.p.27535,2022-09-26,
+Christopher's Perfect Team,1,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-09-14,
+Christopher's Perfect Team,2,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-09-21,
+Christopher's Perfect Team,3,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-09-28,
+Christopher's Perfect Team,4,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-10-05,
+Christopher's Perfect Team,5,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-10-12,
+Christopher's Perfect Team,6,Odell Beckham Jr.,WR,LAR,BN,Inactive: Coach's Decision or Not on Roster,,414.p.27540,2022-10-19,
+Christopher's Perfect Team,5,Teddy Bridgewater,QB,Mia,QB,Questionable,Head,414.p.27560,2022-10-12,2.0
+Christopher's Perfect Team,6,Teddy Bridgewater,QB,Mia,BN,Questionable,Head,414.p.27560,2022-10-15,2.0
+Toney! Toni! Toné!,5,Damien Williams,RB,Atl,IR,Injured Reserve,Ribs,414.p.28115,2022-10-12,5.0
+Toney! Toni! Toné!,6,Damien Williams,RB,Atl,IR,Injured Reserve,Ribs,414.p.28115,2022-10-19,5.0
+Lil Uzi Hurts,2,Jameis Winston,QB,NO,QB,Questionable,Back,414.p.28389,2022-09-17,2.0
+Lil Uzi Hurts,3,Jameis Winston,QB,NO,BN,Questionable,Back,414.p.28389,2022-09-28,2.0
+Lil Uzi Hurts,4,Jameis Winston,QB,NO,BN,Out,Back,414.p.28389,2022-10-03,4.0
+Lil Uzi Hurts,5,Jameis Winston,QB,NO,BN,Out,Back,414.p.28389,2022-10-10,4.0
+Lil Uzi Hurts,6,Jameis Winston,QB,NO,BN,Questionable,Back,414.p.28389,2022-10-19,2.0
+2 Gurleys 1 Kupp,4,Melvin Gordon III,RB,Den,W/R/T,Questionable,Neck,414.p.28403,2022-10-05,2.0
+2 Gurleys 1 Kupp,6,Melvin Gordon III,RB,Den,RB,Questionable,Neck,414.p.28403,2022-10-16,2.0
+Djeango,6,Tyler Lockett,WR,Sea,W/R/T,Questionable,Hamstring,414.p.28457,2022-10-14,2.0
+AndysTeamThatDoesNotInspireAwe,3,Stefon Diggs,WR,Buf,WR,Questionable,,414.p.28534,2022-09-28,2.0
+Djeango,5,Darren Waller,TE,LV,TE,Questionable,Hamstring,414.p.28592,2022-10-12,2.0
+Djeango,6,Darren Waller,TE,LV,BN,Questionable,Hamstring,414.p.28592,2022-10-19,2.0
+Toney! Toni! Toné!,6,Raheem Mostert,RB,Mia,W/R/T,Questionable,Knee,414.p.28654,2022-10-16,2.0
+St. Louis Football Team,5,Carson Wentz,QB,Was,BN,Questionable,Shoulder,414.p.29236,2022-10-12,2.0
+St. Louis Football Team,6,Carson Wentz,QB,Was,QB,Out,Finger,414.p.29236,2022-10-19,4.0
+Running Up That Hill,3,Michael Thomas,WR,NO,W/R/T,Questionable,Foot,414.p.29281,2022-09-28,2.0
+Running Up That Hill,4,Michael Thomas,WR,NO,IR,Out,Toe,414.p.29281,2022-10-03,4.0
+Running Up That Hill,5,Michael Thomas,WR,NO,IR,Out,Toe,414.p.29281,2022-10-10,4.0
+Running Up That Hill,6,Michael Thomas,WR,NO,IR,Out,Toe,414.p.29281,2022-10-18,4.0
+AndysTeamThatDoesNotInspireAwe,6,Tyler Higbee,TE,LAR,TE,Questionable,Ankle,414.p.29344,2022-10-16,2.0
+St. Louis Football Team,1,Dak Prescott,QB,Dal,QB,Out,Hand,414.p.29369,2022-09-14,4.0
+St. Louis Football Team,2,Dak Prescott,QB,Dal,IR,Out,Hand,414.p.29369,2022-09-21,4.0
+St. Louis Football Team,3,Dak Prescott,QB,Dal,BN,Out,Thumb,414.p.29369,2022-09-28,4.0
+Mac & Chase,4,Dak Prescott,QB,Dal,IR,Out,Thumb,414.p.29369,2022-10-05,4.0
+Mac & Chase,5,Dak Prescott,QB,Dal,IR,Out,Thumb,414.p.29369,2022-10-12,4.0
+Mac & Chase,6,Dak Prescott,QB,Dal,BN,Out,Thumb,414.p.29369,2022-10-18,4.0
+Running Up That Hill,5,Tyreek Hill,WR,Mia,WR,Questionable,Foot,414.p.29399,2022-10-12,2.0
+Hit Me With Your Prescott,2,Leonard Fournette,RB,TB,W/R/T,Questionable,Hamstring,414.p.30117,2022-09-17,2.0
+Hit Me With Your Prescott,3,Leonard Fournette,RB,TB,RB,Questionable,Hamstring,414.p.30117,2022-09-24,2.0
+Lil Uzi Hurts,6,Mike Williams,WR,LAC,WR,Questionable,,414.p.30120,2022-10-13,2.0
+Lil Uzi Hurts,4,Christian McCaffrey,RB,Car,RB,Questionable,Quadriceps,414.p.30121,2022-10-01,2.0
+2 Gurleys 1 Kupp,1,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-09-14,
+2 Gurleys 1 Kupp,2,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-09-21,
+2 Gurleys 1 Kupp,3,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-09-28,
+2 Gurleys 1 Kupp,4,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-10-05,
+2 Gurleys 1 Kupp,5,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-10-12,
+2 Gurleys 1 Kupp,6,Deshaun Watson,QB,Cle,BN,Suspended,Disciplinary,414.p.30125,2022-10-19,
+2 Gurleys 1 Kupp,5,Curtis Samuel,WR,Was,WR,Questionable,Illness,414.p.30153,2022-10-06,2.0
+Toney! Toni! Toné!,3,Dalvin Cook,RB,Min,RB,Questionable,Shoulder,414.p.30154,2022-09-28,2.0
+Mac & Chase,5,Gerald Everett,TE,LAC,BN,Questionable,Hamstring,414.p.30157,2022-10-06,2.0
+Lil Uzi Hurts,3,Joe Mixon,RB,Cin,RB,Questionable,Ankle,414.p.30161,2022-09-26,2.0
+Toney! Toni! Toné!,5,JuJu Smith-Schuster,WR,KC,BN,Questionable,Hamstring,414.p.30175,2022-10-10,2.0
+Running Up That Hill,1,Alvin Kamara,RB,NO,RB,Questionable,,414.p.30180,2022-09-14,2.0
+Running Up That Hill,2,Alvin Kamara,RB,NO,BN,Out,Ribs,414.p.30180,2022-09-18,4.0
+Running Up That Hill,3,Alvin Kamara,RB,NO,RB,Questionable,Ribs,414.p.30180,2022-09-24,2.0
+Running Up That Hill,4,Alvin Kamara,RB,NO,BN,Out,Ribs,414.p.30180,2022-10-03,4.0
+Running Up That Hill,5,Alvin Kamara,RB,NO,RB,Questionable,Ribs,414.p.30180,2022-10-08,2.0
+Hit Me With Your Prescott,6,Cooper Kupp,WR,LAR,WR,Questionable,Foot,414.p.30182,2022-10-16,2.0
+2 Gurleys 1 Kupp,1,Chris Godwin,WR,TB,BN,Questionable,Hamstring,414.p.30197,2022-09-14,2.0
+2 Gurleys 1 Kupp,2,Chris Godwin,WR,TB,BN,Out,Hamstring,414.p.30197,2022-09-18,4.0
+2 Gurleys 1 Kupp,3,Chris Godwin,WR,TB,IR,Out,Hamstring,414.p.30197,2022-09-26,4.0
+2 Gurleys 1 Kupp,4,Chris Godwin,WR,TB,BN,Questionable,Hamstring,414.p.30197,2022-10-01,2.0
+2 Gurleys 1 Kupp,5,Chris Godwin,WR,TB,W/R/T,Questionable,Knee,414.p.30197,2022-10-06,2.0
+2 Gurleys 1 Kupp,6,Chris Godwin,WR,TB,WR,Questionable,Hip,414.p.30197,2022-10-14,2.0
+Toney! Toni! Toné!,2,James Conner,RB,Ari,W/R/T,Questionable,Ankle,414.p.30218,2022-09-21,2.0
+Toney! Toni! Toné!,3,James Conner,RB,Ari,BN,Questionable,Ankle,414.p.30218,2022-09-24,2.0
+Toney! Toni! Toné!,5,James Conner,RB,Ari,W/R/T,Questionable,Ribs,414.p.30218,2022-10-12,2.0
+Toney! Toni! Toné!,6,James Conner,RB,Ari,IR,Out,Ribs,414.p.30218,2022-10-18,4.0
+Christopher's Perfect Team,1,George Kittle,TE,SF,TE,Questionable,Groin,414.p.30259,2022-09-14,2.0
+Christopher's Perfect Team,2,George Kittle,TE,SF,BN,Out,Groin,414.p.30259,2022-09-18,4.0
+St. Louis Football Team,1,Harrison Butker,K,KC,K,Questionable,Ankle,414.p.30346,2022-09-14,2.0
+St. Louis Football Team,2,Harrison Butker,K,KC,BN,Out,Ankle,414.p.30346,2022-09-18,4.0
+Toney! Toni! Toné!,4,Harrison Butker,K,KC,K,Out,Ankle,414.p.30346,2022-10-01,4.0
+St. Louis Football Team,4,Noah Brown,WR,Dal,BN,Questionable,,414.p.30352,2022-10-05,2.0
+AndysTeamThatDoesNotInspireAwe,3,Taysom Hill,"QB,TE",NO,BN,Out,Ribs,414.p.30614,2022-09-26,4.0
+AndysTeamThatDoesNotInspireAwe,6,Taysom Hill,"QB,TE",NO,BN,Questionable,Ribs,414.p.30614,2022-10-13,2.0
+St. Louis Football Team,5,Baker Mayfield,QB,Car,BN,Doubtful,Ankle,414.p.30971,2022-10-11,3.0
+St. Louis Football Team,6,Baker Mayfield,QB,Car,BN,Out,Ankle,414.p.30971,2022-10-18,4.0
+St. Louis Football Team,6,Saquon Barkley,RB,NYG,RB,Questionable,Shoulder,414.p.30972,2022-10-14,2.0
+Running Up That Hill,5,Hayden Hurst,TE,Cin,BN,Questionable,Groin,414.p.30995,2022-10-09,2.0
+Running Up That Hill,6,Hayden Hurst,TE,Cin,TE,Questionable,Groin,414.p.30995,2022-10-16,2.0
+St. Louis Football Team,5,Rashaad Penny,RB,Sea,BN,Out,Leg,414.p.30997,2022-10-12,4.0
+Running Up That Hill,4,DJ Chark Jr.,WR,Det,BN,Out,Ankle,414.p.31031,2022-10-03,4.0
+Christopher's Perfect Team,1,Michael Gallup,WR,Dal,BN,Questionable,Knee,414.p.31051,2022-09-14,2.0
+Christopher's Perfect Team,2,Michael Gallup,WR,Dal,BN,Out,Knee,414.p.31051,2022-09-18,4.0
+Christopher's Perfect Team,3,Michael Gallup,WR,Dal,BN,Out,Knee,414.p.31051,2022-09-26,4.0
+AndysTeamThatDoesNotInspireAwe,5,Nyheim Hines,RB,Ind,RB,Questionable,Concussion,414.p.31074,2022-10-12,2.0
+AndysTeamThatDoesNotInspireAwe,6,Nyheim Hines,RB,Ind,BN,Out,Concussion,414.p.31074,2022-10-18,4.0
+Hit Me With Your Prescott,2,Dalton Schultz,TE,Dal,TE,Questionable,Knee,414.p.31107,2022-09-21,2.0
+Hit Me With Your Prescott,3,Dalton Schultz,TE,Dal,BN,Out,Knee,414.p.31107,2022-09-26,4.0
+Hit Me With Your Prescott,4,Dalton Schultz,TE,Dal,BN,Questionable,Knee,414.p.31107,2022-10-01,2.0
+Hit Me With Your Prescott,5,Dalton Schultz,TE,Dal,BN,Questionable,Knee,414.p.31107,2022-10-12,2.0
+Hit Me With Your Prescott,6,Dalton Schultz,TE,Dal,BN,Questionable,Knee,414.p.31107,2022-10-19,2.0
+Toney! Toni! Toné!,6,Mike Boone,RB,Den,BN,Questionable,,414.p.31228,2022-10-14,2.0
+St. Louis Football Team,1,Allen Lazard,WR,GB,BN,Questionable,Ankle,414.p.31268,2022-09-14,2.0
+St. Louis Football Team,2,Allen Lazard,WR,GB,W/R/T,Questionable,Ankle,414.p.31268,2022-09-17,2.0
+St. Louis Football Team,5,Allen Lazard,WR,GB,BN,Questionable,Ankle,414.p.31268,2022-10-06,2.0
+Mac & Chase,4,Daniel Jones,QB,NYG,BN,Questionable,Ankle,414.p.31838,2022-10-05,2.0
+Mac & Chase,5,Daniel Jones,QB,NYG,BN,Questionable,Ankle,414.p.31838,2022-10-06,2.0
+Running Up That Hill,3,T.J. Hockenson,TE,Det,TE,Questionable,Hip,414.p.31840,2022-09-24,2.0
+Running Up That Hill,5,T.J. Hockenson,TE,Det,TE,Questionable,Hip,414.p.31840,2022-10-06,2.0
+2 Gurleys 1 Kupp,3,Josh Jacobs,RB,LV,BN,Questionable,Illness,414.p.31856,2022-09-24,2.0
+Lil Uzi Hurts,4,Marquise Brown,WR,Ari,BN,Questionable,Foot,414.p.31857,2022-10-01,2.0
+Lil Uzi Hurts,5,Marquise Brown,WR,Ari,W/R/T,Questionable,Foot,414.p.31857,2022-10-06,2.0
+Lil Uzi Hurts,6,Marquise Brown,WR,Ari,W/R/T,Out,Leg,414.p.31857,2022-10-19,4.0
+AndysTeamThatDoesNotInspireAwe,5,Diontae Johnson,WR,Pit,BN,Questionable,Hip,414.p.31898,2022-10-06,2.0
+AndysTeamThatDoesNotInspireAwe,6,Diontae Johnson,WR,Pit,WR,Questionable,Hip,414.p.31898,2022-10-13,2.0
+Christopher's Perfect Team,3,David Montgomery,RB,Chi,W/R/T,Questionable,Knee,414.p.31905,2022-09-28,2.0
+Christopher's Perfect Team,4,David Montgomery,RB,Chi,W/R/T,Out,Knee,414.p.31905,2022-10-03,4.0
+Christopher's Perfect Team,5,David Montgomery,RB,Chi,RB,Questionable,Ankle,414.p.31905,2022-10-08,2.0
+AndysTeamThatDoesNotInspireAwe,5,Damien Harris,RB,NE,BN,Doubtful,Hamstring,414.p.31919,2022-10-12,3.0
+AndysTeamThatDoesNotInspireAwe,6,Damien Harris,RB,NE,BN,Out,Hamstring,414.p.31919,2022-10-18,4.0
+Toney! Toni! Toné!,3,Dawson Knox,TE,Buf,BN,Questionable,Foot,414.p.31928,2022-09-24,2.0
+Toney! Toni! Toné!,6,Alexander Mattison,RB,Min,BN,Questionable,Shoulder,414.p.31934,2022-10-13,2.0
+Djeango,4,Justice Hill,RB,Bal,BN,Questionable,Leg,414.p.31945,2022-10-05,2.0
+Djeango,5,Justice Hill,RB,Bal,BN,Out,Hamstring,414.p.31945,2022-10-10,4.0
+Christopher's Perfect Team,5,Tony Pollard,RB,Dal,W/R/T,Questionable,Illness,414.p.31960,2022-10-08,2.0
+AndysTeamThatDoesNotInspireAwe,2,Hunter Renfrow,WR,LV,W/R/T,Questionable,,414.p.31981,2022-09-21,2.0
+AndysTeamThatDoesNotInspireAwe,3,Hunter Renfrow,WR,LV,BN,Out,Concussion,414.p.31981,2022-09-26,4.0
+AndysTeamThatDoesNotInspireAwe,4,Hunter Renfrow,WR,LV,BN,Out,Concussion,414.p.31981,2022-10-03,4.0
+AndysTeamThatDoesNotInspireAwe,5,Hunter Renfrow,WR,LV,W/R/T,Questionable,Concussion,414.p.31981,2022-10-08,2.0
+Djeango,3,Jakobi Meyers,WR,NE,BN,Out,Knee,414.p.32231,2022-09-26,4.0
+Hit Me With Your Prescott,6,Jakobi Meyers,WR,NE,BN,Questionable,Knee,414.p.32231,2022-10-16,2.0
+Christopher's Perfect Team,3,Tua Tagovailoa,QB,Mia,QB,Questionable,Back,414.p.32675,2022-09-28,2.0
+Christopher's Perfect Team,4,Tua Tagovailoa,QB,Mia,QB,Out,Concussion,414.p.32675,2022-10-05,4.0
+Christopher's Perfect Team,5,Tua Tagovailoa,QB,Mia,BN,Out,Concussion,414.p.32675,2022-10-12,4.0
+Christopher's Perfect Team,6,Tua Tagovailoa,QB,Mia,BN,Out,Concussion,414.p.32675,2022-10-18,4.0
+St. Louis Football Team,2,Justin Herbert,QB,LAC,QB,Questionable,Ribs,414.p.32676,2022-09-21,2.0
+St. Louis Football Team,3,Justin Herbert,QB,LAC,QB,Questionable,Ribs,414.p.32676,2022-09-24,2.0
+Djeango,2,Jerry Jeudy,WR,Den,WR,Questionable,Shoulder,414.p.32685,2022-09-21,2.0
+Djeango,3,Jerry Jeudy,WR,Den,BN,Questionable,Shoulder,414.p.32685,2022-09-24,2.0
+St. Louis Football Team,5,CeeDee Lamb,WR,Dal,WR,Questionable,Groin,414.p.32687,2022-10-08,2.0
+St. Louis Football Team,6,CeeDee Lamb,WR,Dal,WR,Questionable,Hip,414.p.32687,2022-10-16,2.0
+Toney! Toni! Toné!,1,Tee Higgins,WR,Cin,W/R/T,Questionable,Concussion,414.p.32703,2022-09-14,2.0
+Toney! Toni! Toné!,2,Tee Higgins,WR,Cin,W/R/T,Questionable,Concussion,414.p.32703,2022-09-17,2.0
+Toney! Toni! Toné!,3,Tee Higgins,WR,Cin,WR,Questionable,Toe,414.p.32703,2022-09-26,2.0
+Toney! Toni! Toné!,4,Tee Higgins,WR,Cin,WR,Questionable,Ankle,414.p.32703,2022-10-05,2.0
+Toney! Toni! Toné!,5,Tee Higgins,WR,Cin,WR,Questionable,Ankle,414.p.32703,2022-10-12,2.0
+Toney! Toni! Toné!,6,Tee Higgins,WR,Cin,BN,Questionable,Ankle,414.p.32703,2022-10-16,2.0
+Mac & Chase,2,Michael Pittman Jr.,WR,Ind,IR,Out,Quadriceps,414.p.32704,2022-09-18,4.0
+Mac & Chase,2,D'Andre Swift,RB,Det,RB,Questionable,Ankle,414.p.32705,2022-09-17,2.0
+Mac & Chase,3,D'Andre Swift,RB,Det,RB,Questionable,Shoulder,414.p.32705,2022-09-28,2.0
+Mac & Chase,4,D'Andre Swift,RB,Det,RB,Out,Shoulder,414.p.32705,2022-10-03,4.0
+Mac & Chase,5,D'Andre Swift,RB,Det,BN,Out,Shoulder,414.p.32705,2022-10-12,4.0
+Mac & Chase,6,D'Andre Swift,RB,Det,IR,Out,Shoulder,414.p.32705,2022-10-18,4.0
+AndysTeamThatDoesNotInspireAwe,4,Jonathan Taylor,RB,Ind,RB,Questionable,Ankle,414.p.32711,2022-10-05,2.0
+AndysTeamThatDoesNotInspireAwe,5,Jonathan Taylor,RB,Ind,BN,Out,Ankle,414.p.32711,2022-10-10,4.0
+AndysTeamThatDoesNotInspireAwe,6,Jonathan Taylor,RB,Ind,BN,Out,Ankle,414.p.32711,2022-10-18,4.0
+Djeango,6,Cam Akers,RB,LAR,BN,Out,Personal,414.p.32722,2022-10-18,4.0
+St. Louis Football Team,1,J.K. Dobbins,RB,Bal,BN,Questionable,Knee,414.p.32725,2022-09-14,2.0
+St. Louis Football Team,2,J.K. Dobbins,RB,Bal,BN,Out,Knee,414.p.32725,2022-09-18,4.0
+St. Louis Football Team,3,J.K. Dobbins,RB,Bal,RB,Questionable,Knee - ACL,414.p.32725,2022-09-24,2.0
+St. Louis Football Team,6,J.K. Dobbins,RB,Bal,RB,Questionable,Knee,414.p.32725,2022-10-19,2.0
+Mac & Chase,2,Devin Duvernay,WR,Bal,BN,Questionable,Concussion,414.p.32762,2022-09-21,2.0
+Hit Me With Your Prescott,2,Gabe Davis,WR,Buf,W/R/T,Questionable,Ankle,414.p.32798,2022-09-21,2.0
+Hit Me With Your Prescott,3,Gabe Davis,WR,Buf,BN,Questionable,Ankle,414.p.32798,2022-09-24,2.0
+Hit Me With Your Prescott,4,Gabe Davis,WR,Buf,BN,Questionable,Ankle,414.p.32798,2022-10-01,2.0
+Toney! Toni! Toné!,6,Eno Benjamin,RB,Ari,W/R/T,Questionable,Foot,414.p.32892,2022-10-19,2.0
+Mac & Chase,1,Zach Wilson,QB,NYJ,IR,Out,Knee,414.p.33390,2022-09-14,4.0
+Mac & Chase,2,Zach Wilson,QB,NYJ,IR,Out,Knee,414.p.33390,2022-09-21,4.0
+Mac & Chase,3,Zach Wilson,QB,NYJ,IR,Out,Knee,414.p.33390,2022-09-26,4.0
+Mac & Chase,2,Trey Lance,QB,SF,QB,Out,Leg,414.p.33391,2022-09-21,4.0
+St. Louis Football Team,6,Trey Lance,QB,SF,IR,Injured Reserve,Leg,414.p.33391,2022-10-19,5.0
+Lil Uzi Hurts,5,Kyle Pitts,TE,Atl,BN,Out,Hamstring,414.p.33392,2022-10-10,4.0
+Lil Uzi Hurts,6,Kyle Pitts,TE,Atl,BN,Questionable,Hamstring,414.p.33392,2022-10-16,2.0
+Christopher's Perfect Team,3,Jaylen Waddle,WR,Mia,WR,Questionable,Groin,414.p.33394,2022-09-28,2.0
+Christopher's Perfect Team,5,Jaylen Waddle,WR,Mia,WR,Questionable,Groin,414.p.33394,2022-10-08,2.0
+Christopher's Perfect Team,6,Jaylen Waddle,WR,Mia,WR,Questionable,Shoulder,414.p.33394,2022-10-19,2.0
+Running Up That Hill,6,Justin Fields,QB,Chi,QB,Questionable,,414.p.33399,2022-10-19,2.0
+Christopher's Perfect Team,1,Mac Jones,QB,NE,BN,Questionable,Back,414.p.33403,2022-09-14,2.0
+Christopher's Perfect Team,2,Mac Jones,QB,NE,BN,Questionable,Illness,414.p.33403,2022-09-15,2.0
+Christopher's Perfect Team,3,Mac Jones,QB,NE,BN,Doubtful,Ankle,414.p.33403,2022-09-28,3.0
+Christopher's Perfect Team,4,Mac Jones,QB,NE,BN,Out,Ankle,414.p.33403,2022-10-03,4.0
+Christopher's Perfect Team,5,Mac Jones,QB,NE,BN,Out,Ankle,414.p.33403,2022-10-10,4.0
+Christopher's Perfect Team,6,Mac Jones,QB,NE,QB,Out,Ankle,414.p.33403,2022-10-18,4.0
+AndysTeamThatDoesNotInspireAwe,2,Kadarius Toney,WR,NYG,BN,Questionable,Hamstring,414.p.33408,2022-09-17,2.0
+AndysTeamThatDoesNotInspireAwe,3,Kadarius Toney,WR,NYG,BN,Out,Hamstring,414.p.33408,2022-09-26,4.0
+AndysTeamThatDoesNotInspireAwe,4,Kadarius Toney,WR,NYG,BN,Out,Hamstring,414.p.33408,2022-10-03,4.0
+AndysTeamThatDoesNotInspireAwe,5,Kadarius Toney,WR,NYG,BN,Out,Hamstring,414.p.33408,2022-10-10,4.0
+Hit Me With Your Prescott,1,Najee Harris,RB,Pit,RB,Questionable,Foot,414.p.33412,2022-09-14,2.0
+Toney! Toni! Toné!,4,Rashod Bateman,WR,Bal,W/R/T,Questionable,Foot,414.p.33415,2022-10-05,2.0
+Toney! Toni! Toné!,5,Rashod Bateman,WR,Bal,IR,Out,Foot,414.p.33415,2022-10-10,4.0
+Toney! Toni! Toné!,6,Rashod Bateman,WR,Bal,BN,Out,Foot,414.p.33415,2022-10-18,4.0
+Christopher's Perfect Team,4,Javonte Williams,RB,Den,RB,Injured Reserve,Knee,414.p.33423,2022-10-05,5.0
+Christopher's Perfect Team,5,Javonte Williams,RB,Den,BN,Injured Reserve,Knee,414.p.33423,2022-10-07,5.0
+Lil Uzi Hurts,5,Pat Freiermuth,TE,Pit,TE,Questionable,Concussion,414.p.33443,2022-10-12,2.0
+Lil Uzi Hurts,6,Pat Freiermuth,TE,Pit,BN,Out,Concussion,414.p.33443,2022-10-18,4.0
+AndysTeamThatDoesNotInspireAwe,3,Amon-Ra St. Brown,WR,Det,WR,Questionable,Ankle,414.p.33500,2022-09-28,2.0
+AndysTeamThatDoesNotInspireAwe,4,Amon-Ra St. Brown,WR,Det,BN,Out,Ankle,414.p.33500,2022-10-03,4.0
+AndysTeamThatDoesNotInspireAwe,5,Amon-Ra St. Brown,WR,Det,WR,Questionable,Ankle,414.p.33500,2022-10-08,2.0
+2 Gurleys 1 Kupp,1,Elijah Mitchell,RB,SF,RB,Injured Reserve,Knee,414.p.33582,2022-09-14,5.0
+2 Gurleys 1 Kupp,2,Elijah Mitchell,RB,SF,IR,Injured Reserve,Knee,414.p.33582,2022-09-21,5.0
+2 Gurleys 1 Kupp,3,Elijah Mitchell,RB,SF,IR,Injured Reserve,Knee,414.p.33582,2022-09-28,5.0
+2 Gurleys 1 Kupp,4,Elijah Mitchell,RB,SF,IR,Injured Reserve,Knee,414.p.33582,2022-10-05,5.0
+2 Gurleys 1 Kupp,5,Elijah Mitchell,RB,SF,IR,Injured Reserve,Knee,414.p.33582,2022-10-12,5.0
+2 Gurleys 1 Kupp,6,Elijah Mitchell,RB,SF,IR,Injured Reserve,Knee,414.p.33582,2022-10-19,5.0
+AndysTeamThatDoesNotInspireAwe,5,Drake London,WR,Atl,BN,Questionable,Knee,414.p.33963,2022-10-12,2.0
+St. Louis Football Team,5,Chris Olave,WR,NO,W/R/T,Questionable,Concussion,414.p.33966,2022-10-12,2.0
+St. Louis Football Team,6,Chris Olave,WR,NO,BN,Questionable,Concussion,414.p.33966,2022-10-16,2.0
+St. Louis Football Team,3,Jameson Williams,WR,Det,IR,Non-Football Injury (Reserve),Knee,414.p.33967,2022-09-28,
+St. Louis Football Team,4,Jameson Williams,WR,Det,IR,Non-Football Injury (Reserve),Knee,414.p.33967,2022-10-05,
+St. Louis Football Team,5,Jameson Williams,WR,Det,IR,Non-Football Injury (Reserve),Knee,414.p.33967,2022-10-12,
+St. Louis Football Team,6,Jameson Williams,WR,Det,IR,Non-Football Injury (Reserve),Knee,414.p.33967,2022-10-19,
+Lil Uzi Hurts,4,Jahan Dotson,WR,Was,BN,Questionable,Hamstring,414.p.33971,2022-10-05,2.0
+Lil Uzi Hurts,5,Jahan Dotson,WR,Was,BN,Out,Hamstring,414.p.33971,2022-10-10,4.0
+Lil Uzi Hurts,6,Jahan Dotson,WR,Was,BN,Out,Hamstring,414.p.33971,2022-10-18,4.0
+Lil Uzi Hurts,4,Treylon Burks,WR,Ten,BN,Doubtful,Toe,414.p.33973,2022-10-05,3.0
+Lil Uzi Hurts,5,Treylon Burks,WR,Ten,BN,Injured Reserve,Toe,414.p.33973,2022-10-12,5.0
+Lil Uzi Hurts,6,Treylon Burks,WR,Ten,BN,Injured Reserve,Toe,414.p.33973,2022-10-16,5.0
+2 Gurleys 1 Kupp,6,Kenny Pickett,QB,Pit,BN,Questionable,Concussion,414.p.33975,2022-10-19,2.0
+Djeango,5,Breece Hall,RB,NYJ,W/R/T,Questionable,Knee,414.p.33991,2022-10-06,2.0
+Hit Me With Your Prescott,1,Kenneth Walker III,RB,Sea,BN,Questionable,Hernia,414.p.33996,2022-09-14,2.0
+Hit Me With Your Prescott,2,Kenneth Walker III,RB,Sea,BN,Questionable,Abdomen,414.p.33996,2022-09-15,2.0
+St. Louis Football Team,1,Brian Robinson Jr.,RB,Was,IR,Non-Football Injury (Reserve),Leg,414.p.34054,2022-09-14,
+St. Louis Football Team,2,Brian Robinson Jr.,RB,Was,IR,Non-Football Injury (Reserve),Leg,414.p.34054,2022-09-21,
+St. Louis Football Team,3,Brian Robinson Jr.,RB,Was,IR,Non-Football Injury (Reserve),Leg,414.p.34054,2022-09-28,
+St. Louis Football Team,4,Brian Robinson Jr.,RB,Was,IR,Non-Football Injury (Active),Leg,414.p.34054,2022-10-05,
+St. Louis Football Team,5,Brian Robinson Jr.,RB,Was,IR,Inactive: Coach's Decision or Not on Roster,,414.p.34054,2022-10-08,
+AndysTeamThatDoesNotInspireAwe,6,Aaron Rodgers,QB,GB,QB,Questionable,Thumb,414.p.7200,2022-10-13,2.0
